@@ -1,0 +1,10 @@
+C:\Users\xlevi\OneDrive\Área de Trabalho\ESTUDOS\Vaga\LiberacaoCreditoConsole\LiberacaoCredito\LiberacaoCredito\bin\Debug\LiberacaoCredito.exe.config
+C:\Users\xlevi\OneDrive\Área de Trabalho\ESTUDOS\Vaga\LiberacaoCreditoConsole\LiberacaoCredito\LiberacaoCredito\bin\Debug\LiberacaoCredito.exe
+C:\Users\xlevi\OneDrive\Área de Trabalho\ESTUDOS\Vaga\LiberacaoCreditoConsole\LiberacaoCredito\LiberacaoCredito\bin\Debug\LiberacaoCredito.pdb
+C:\Users\xlevi\OneDrive\Área de Trabalho\ESTUDOS\Vaga\LiberacaoCreditoConsole\LiberacaoCredito\LiberacaoCredito\obj\Debug\LiberacaoCredito.csprojAssemblyReference.cache
+C:\Users\xlevi\OneDrive\Área de Trabalho\ESTUDOS\Vaga\LiberacaoCreditoConsole\LiberacaoCredito\LiberacaoCredito\obj\Debug\LiberacaoCredito.csproj.CoreCompileInputs.cache
+C:\Users\xlevi\OneDrive\Área de Trabalho\ESTUDOS\Vaga\LiberacaoCreditoConsole\LiberacaoCredito\LiberacaoCredito\obj\Debug\LiberacaoCredito.exe
+C:\Users\xlevi\OneDrive\Área de Trabalho\ESTUDOS\Vaga\LiberacaoCreditoConsole\LiberacaoCredito\LiberacaoCredito\obj\Debug\LiberacaoCredito.pdb
+C:\Users\xlevi\OneDrive\Área de Trabalho\ESTUDOS\Vaga\LiberacaoCreditoConsole\LiberacaoCredito\LiberacaoCredito\bin\Debug\Newtonsoft.Json.dll
+C:\Users\xlevi\OneDrive\Área de Trabalho\ESTUDOS\Vaga\LiberacaoCreditoConsole\LiberacaoCredito\LiberacaoCredito\bin\Debug\Newtonsoft.Json.xml
+C:\Users\xlevi\OneDrive\Área de Trabalho\ESTUDOS\Vaga\LiberacaoCreditoConsole\LiberacaoCredito\LiberacaoCredito\obj\Debug\LiberacaoCredito.csproj.CopyComplete
